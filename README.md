@@ -19,3 +19,6 @@ MQTT em Python -  Com DashBoard
   b. O arquivo mqtt-dash.py possui a interface gráfica responsável por apresentar os dados coletados do Broke, assim como enviar novos dados.
   
   
+Exemplo mais detalhado em:
+
+https://highvoltages.co/category/iot-internet-of-things/how-to-mqtt/
